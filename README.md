@@ -22,7 +22,6 @@ This is a static website built using HTML and CSS.
 2. Open `index.html` in any browser
 
 ## 🔗 Live Demo
-(Add your GitHub Pages link here)
-
+(https://github.com/anam1312/anam-portfolio/commit/d68015cb0aa4be0600119dc196043832d51192b6)
 ## 👩‍💻 Author
 Anam
