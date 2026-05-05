@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <style>
+    body { font-family: Arial; text-align: center; }
+    .card { border: 1px solid #ccc; padding: 20px; margin: 20px; }
+  </style>
+</head>
+<body>
+
+<h1>Anam's Portfolio</h1>
+
+<div class="card">
+  <h2>About Me</h2>
+  <p>I am learning Web Development & AI</p>
+</div>
+
+<div class="card">
+  <h2>Projects</h2>
+  <p>To-do App | Weather App</p>
+</div>
+
+<div class="card">
+  <h2>Contact</h2>
+  <p>Email: your@email.com</p>
+</div>
+
+</body>
+</html>
